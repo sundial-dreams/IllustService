@@ -1,0 +1,62 @@
+{
+  'user': {
+    'id': 13651304,
+    'name': '八木戸マト（焼きトマト）',
+    'account': 'sormanngaseisaku',
+    'profile_image_urls': {
+      'medium': 'https://i.pximg.net/user-profile/img/2019/07/10/06/15/51/15988644_60085643340b7e91019dbdbe3ec61c61_170.png'
+    },
+    'comment': '宜しくお願いします。\r\n一般と成人向け問わず色々描いてます。\r\n一般向け↓\r\nhttps://twitter.com/yakitomahawk\r\n成人向け↓\r\nhttps://twitter.com/yakitomeito\r\n\r\n＊お仕事等ご用件のある方はこちら↓\r\nyakitomeitoosigoto☆yahoo.co.jp （☆=@）',
+    'is_followed': False,
+    'is_access_blocking_user': False
+  },
+  'profile': {
+    'webpage': None,
+    'gender': 'male',
+    'birth': '',
+    'birth_day': '',
+    'birth_year': 0,
+    'region': '',
+    'address_id': 0,
+    'country_code': '',
+    'job': '',
+    'job_id': 0,
+    'total_follow_users': 109,
+    'total_mypixiv_users': 3,
+    'total_illusts': 28,
+    'total_manga': 192,
+    'total_novels': 0,
+    'total_illust_bookmarks_public': 3,
+    'total_illust_series': 14,
+    'total_novel_series': 0,
+    'background_image_url': None,
+    'twitter_account': 'yakitomahawk',
+    'twitter_url': 'https://twitter.com/yakitomahawk',
+    'pawoo_url': None,
+    'is_premium': True,
+    'is_using_custom_profile_image': True
+  },
+  'profile_publicity': {
+    'gender': 'public',
+    'region': 'public',
+    'birth_day': 'public',
+    'birth_year': 'public',
+    'job': 'public',
+    'pawoo': True
+  },
+  'workspace': {
+    'pc': '',
+    'monitor': '',
+    'tool': '',
+    'scanner': '',
+    'tablet': '',
+    'mouse': '',
+    'printer': '',
+    'desktop': '',
+    'music': '',
+    'desk': '',
+    'chair': '',
+    'comment': '',
+    'workspace_image_url': None
+  }
+}
